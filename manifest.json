@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Structure Spawner",
+    "description": "Paid custom and vanilla structure spawner with original loot.",
+    "uuid": "7a2d6c7b-1d08-4a91-9b8d-7b7a5c2d9e41",
+    "version": [1, 1, 0],
+    "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+    {
+      "description": "Structure spawning behavior pack",
+      "type": "data",
+      "uuid": "b6f2e5a0-4a2b-4f75-8f27-3e3d8a1c6b92",
+      "version": [1, 1, 0]
+    }
+  ]
+}
